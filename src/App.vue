@@ -95,10 +95,6 @@ const registrarPaciente = async () => {
     </div>
 </template>
 
-
-
-
-
 <style scoped>
 /* Fondo y contenedor general */
 .pagina-fondo {
@@ -190,3 +186,7 @@ input:focus, select:focus {
   text-align: center;
 }
 </style>
+
+
+
+
